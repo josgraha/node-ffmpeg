@@ -1,8 +1,10 @@
 # Docker: node-ffmepg 
 
 ## Description
-Basic node image with ffmpeg package installed.  Please find these files on my github repository here.
+Basic node image with ffmpeg package installed.  Please find the image on dockerhub here.
+https://hub.docker.com/r/josgraha/node-ffmpeg/
 
+Note: If you need this you are probably in a hurry and not considering all your options.
 
 The Dockerfile is blelow
 ```
